@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353234688110",
+    "project_id": "droom-rideapp",
+    "storage_bucket": "droom-rideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353234688110:android:57638f11617ff8a12a2e7f",
+        "android_client_info": {
+          "package_name": "com.example.travels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353234688110-cif4igtdn1h25k6mangrqhecg1689qut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjDknOo86i4Ty4BQ_1uV_LbFbXGmiP98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353234688110-cif4igtdn1h25k6mangrqhecg1689qut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
